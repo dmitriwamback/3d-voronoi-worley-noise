@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "voronoi_noise.h": "c",
+        "array": "c",
+        "new": "cpp"
+    }
+}
